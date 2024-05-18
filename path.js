@@ -1,4 +1,4 @@
-const { log } = require('console');
+
 const path = require('path')
 console.log(`windows separater : ${path.sep}`);// separeter /  \
 
